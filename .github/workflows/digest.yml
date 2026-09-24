@@ -1,0 +1,46 @@
+name: DSP FPGA 前沿简报
+
+on:
+  schedule:
+    # 北京时间每天 09:17；避开整点高峰，GitHub 定时任务仍可能延迟。
+    - cron: "17 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: frontier-watch-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 运行测试
+        run: python -m unittest discover -s tests
+      - name: 收集并推送
+        env:
+          PYTHONUTF8: "1"
+          GITHUB_TOKEN: ${{ github.token }}
+          PUSH_CHANNEL: ${{ vars.PUSH_CHANNEL || 'serverchan' }}
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+          BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
+          BARK_SERVER_URL: ${{ vars.BARK_SERVER_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WECOM_WEBHOOK_URL: ${{ secrets.WECOM_WEBHOOK_URL }}
+        run: python -m frontier_watch
+      - name: 保存已发送记录
+        run: |
+          if [ ! -f data/sent.json ]; then exit 0; fi
+          git add data/sent.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update digest sent state"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

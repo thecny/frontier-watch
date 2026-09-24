@@ -1,0 +1,5 @@
+{
+  "DSP": ["dsp", "digital signal processing", "signal processing", "数字信号处理"],
+  "FPGA": ["fpga", "field-programmable gate array", "rtl", "verilog", "vhdl", "hls"],
+  "嵌入式": ["embedded", "firmware", "microcontroller", "mcu", "risc-v", "嵌入式"]
+}

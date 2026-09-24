@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sample-arxiv-fpga",
+    "title": "FPGA accelerator for adaptive digital signal processing",
+    "url": "https://example.org/demo/fpga-dsp",
+    "source": "演示论文",
+    "age_hours": 5,
+    "summary": "A demonstration paper about a reconfigurable DSP pipeline and lower energy use.",
+    "kind": "paper"
+  },
+  {
+    "id": "sample-github-embedded",
+    "title": "Open-source RISC-V embedded SoC toolkit",
+    "url": "https://example.org/demo/riscv-embedded",
+    "source": "演示项目",
+    "age_hours": 14,
+    "summary": "A sample repository for MCU and embedded hardware design.",
+    "kind": "project"
+  }
+]
