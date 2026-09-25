@@ -1,20 +1,36 @@
 {
   "sent_ids": [
+    "https://hackaday.com/?p=1163157",
     "https://www.cnx-software.com/?p=177343",
     "https://www.cnx-software.com/?p=177395",
+    "https://www.cnx-software.com/?p=177399",
     "https://www.cnx-software.com/?p=177406",
     "oai:arXiv.org:2605.31549v2",
     "oai:arXiv.org:2609.26824v1",
     "oai:arXiv.org:2609.27300v1",
     "oai:arXiv.org:2609.27456v1",
     "oai:arXiv.org:2609.28052v1",
+    "oai:arXiv.org:2609.28717v1",
+    "oai:arXiv.org:2609.28887v1",
+    "oai:arXiv.org:2609.29086v1",
+    "oai:arXiv.org:2609.29727v1",
+    "oai:arXiv.org:2609.29868v1",
+    "oai:arXiv.org:2609.30099v1",
     "url:https://arxiv.org/abs/2605.31549",
     "url:https://arxiv.org/abs/2609.26824",
     "url:https://arxiv.org/abs/2609.27300",
     "url:https://arxiv.org/abs/2609.27456",
     "url:https://arxiv.org/abs/2609.28052",
+    "url:https://arxiv.org/abs/2609.28717",
+    "url:https://arxiv.org/abs/2609.28887",
+    "url:https://arxiv.org/abs/2609.29086",
+    "url:https://arxiv.org/abs/2609.29727",
+    "url:https://arxiv.org/abs/2609.29868",
+    "url:https://arxiv.org/abs/2609.30099",
+    "url:https://hackaday.com/2026/09/24/fpga-for-all-cern-releases-colibri-vhdl-library",
     "url:https://www.cnx-software.com/2026/09/22/nordic-nrf54lc10a-a-tiny-bluetooth-le-and-802-15-4-soc-with-sub-50-na-hibernation-mode",
     "url:https://www.cnx-software.com/2026/09/23/mediatek-dimensity-cx-c10-max-octa-core-cortex-x925-x9-a720-soc-targets-googlebooks",
-    "url:https://www.cnx-software.com/2026/09/24/quectel-se200zc-ap-smart-module-supports-up-to-five-cameras-with-rockchip-rv1126b-bj-soc"
+    "url:https://www.cnx-software.com/2026/09/24/quectel-se200zc-ap-smart-module-supports-up-to-five-cameras-with-rockchip-rv1126b-bj-soc",
+    "url:https://www.cnx-software.com/2026/09/25/membrowse-continuously-tracks-firmware-memory-footprint-is-free-for-open-source-projects"
   ]
 }
