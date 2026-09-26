@@ -1,10 +1,17 @@
 {
   "sent_ids": [
+    "github:1383197062",
+    "github:1385811479",
     "https://hackaday.com/?p=1163157",
+    "https://hackaday.com/?p=1163268&preview=true&preview_id=1163268",
     "https://www.cnx-software.com/?p=177343",
     "https://www.cnx-software.com/?p=177395",
     "https://www.cnx-software.com/?p=177399",
     "https://www.cnx-software.com/?p=177406",
+    "https://www.cnx-software.com/?p=177474",
+    "https://www.cnx-software.com/?p=177500",
+    "https://www.cnx-software.com/?p=177526",
+    "https://www.cnx-software.com/?p=177572",
     "oai:arXiv.org:2605.31549v2",
     "oai:arXiv.org:2609.26824v1",
     "oai:arXiv.org:2609.27300v1",
@@ -27,10 +34,17 @@
     "url:https://arxiv.org/abs/2609.29727",
     "url:https://arxiv.org/abs/2609.29868",
     "url:https://arxiv.org/abs/2609.30099",
+    "url:https://github.com/Stevvven777/EGo1-on-Apple-Silicon",
+    "url:https://github.com/kuzearcade/Arcade-NMKBP964_MiSTer",
     "url:https://hackaday.com/2026/09/24/fpga-for-all-cern-releases-colibri-vhdl-library",
+    "url:https://hackaday.com/2026/09/25/hackaday-podcast-episode-388-ram-swapping-on-raspberry-pi-raindrops-on-radar-and-a-fine-mesh",
     "url:https://www.cnx-software.com/2026/09/22/nordic-nrf54lc10a-a-tiny-bluetooth-le-and-802-15-4-soc-with-sub-50-na-hibernation-mode",
     "url:https://www.cnx-software.com/2026/09/23/mediatek-dimensity-cx-c10-max-octa-core-cortex-x925-x9-a720-soc-targets-googlebooks",
+    "url:https://www.cnx-software.com/2026/09/24/cybopal-one-an-ai-powered-6-dof-robotic-terminal-with-27-inch-4k-display-that-adjusts-to-your-posture",
     "url:https://www.cnx-software.com/2026/09/24/quectel-se200zc-ap-smart-module-supports-up-to-five-cameras-with-rockchip-rv1126b-bj-soc",
-    "url:https://www.cnx-software.com/2026/09/25/membrowse-continuously-tracks-firmware-memory-footprint-is-free-for-open-source-projects"
+    "url:https://www.cnx-software.com/2026/09/25/compact-long-wave-infrared-camera-pairs-stm32n6-mcu-with-lynred-ati320-thermal-sensor",
+    "url:https://www.cnx-software.com/2026/09/25/membrowse-continuously-tracks-firmware-memory-footprint-is-free-for-open-source-projects",
+    "url:https://www.cnx-software.com/2026/09/25/qualcomm-releases-linux-developer-preview-snapdragon-x2",
+    "url:https://www.cnx-software.com/2026/09/26/kryonos-turns-esp32-boards-into-javascript-powered-mini-computer"
   ]
 }
