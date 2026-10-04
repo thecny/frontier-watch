@@ -8,11 +8,14 @@
     "github:1395463021",
     "github:1398244143",
     "github:1398791383",
+    "github:1403166830",
     "https://hackaday.com/?p=1162590",
     "https://hackaday.com/?p=1163157",
     "https://hackaday.com/?p=1163268&preview=true&preview_id=1163268",
     "https://hackaday.com/?p=1163389",
     "https://hackaday.com/?p=1163495",
+    "https://hackaday.com/?p=1169706",
+    "https://hackaday.com/?p=1169813",
     "https://www.cnx-software.com/?p=167333",
     "https://www.cnx-software.com/?p=177343",
     "https://www.cnx-software.com/?p=177395",
@@ -34,6 +37,7 @@
     "https://www.cnx-software.com/?p=177806",
     "https://www.cnx-software.com/?p=177810",
     "https://www.cnx-software.com/?p=177853",
+    "https://www.cnx-software.com/?p=177928",
     "oai:arXiv.org:2603.27961v2",
     "oai:arXiv.org:2604.19426v2",
     "oai:arXiv.org:2605.31549v2",
@@ -115,6 +119,7 @@
     "url:https://github.com/RobertOppenheimer0/100t-DMA-FPGA-Based-RISC-V-SoC",
     "url:https://github.com/Stevvven777/EGo1-on-Apple-Silicon",
     "url:https://github.com/dave-1024/falconfpga",
+    "url:https://github.com/dr-Titus/z80-silicon-rtl",
     "url:https://github.com/enjoy-digital/chromatix",
     "url:https://github.com/kuzearcade/Arcade-NMKBP964_MiSTer",
     "url:https://github.com/kyledlester/Namco_NB1_MiSTer",
@@ -125,6 +130,8 @@
     "url:https://hackaday.com/2026/09/26/a-modular-macro-keypad",
     "url:https://hackaday.com/2026/09/26/the-least-annoying-of-all-evils",
     "url:https://hackaday.com/2026/09/28/the-fpga-chronicles-exploring-the-tang-nano-20k",
+    "url:https://hackaday.com/2026/10/03/play-playstation-2-and-xbox-1-games-on-your-jailbroken-ps5",
+    "url:https://hackaday.com/2026/10/03/the-esp32-an-sdr-in-itself",
     "url:https://www.cnx-software.com/2026/09/22/nordic-nrf54lc10a-a-tiny-bluetooth-le-and-802-15-4-soc-with-sub-50-na-hibernation-mode",
     "url:https://www.cnx-software.com/2026/09/23/mediatek-dimensity-cx-c10-max-octa-core-cortex-x925-x9-a720-soc-targets-googlebooks",
     "url:https://www.cnx-software.com/2026/09/24/cybopal-one-an-ai-powered-6-dof-robotic-terminal-with-27-inch-4k-display-that-adjusts-to-your-posture",
@@ -145,6 +152,7 @@
     "url:https://www.cnx-software.com/2026/10/02/asrock-industrial-nuc-300-series-intel-core-3-304-core-5-320-mini-pcs-and-motherboards",
     "url:https://www.cnx-software.com/2026/10/02/avaota-f2-allwinner-v861-risc-v-sbc-targets-ai-cameras-with-ptz-and-audio-support",
     "url:https://www.cnx-software.com/2026/10/02/up-xtreme-ptl-edge-air-panther-lake-mini-pc-gets-airjet-solid-state-active-cooling-solution",
-    "url:https://www.cnx-software.com/2026/10/03/uuna-tek-iauto-review-a-professional-handwriting-and-drawing-machine"
+    "url:https://www.cnx-software.com/2026/10/03/uuna-tek-iauto-review-a-professional-handwriting-and-drawing-machine",
+    "url:https://www.cnx-software.com/2026/10/04/esp-sdr-firmware-turns-esp32-into-a-2-4-5-ghz-software-defined-radio-sdr"
   ]
 }
