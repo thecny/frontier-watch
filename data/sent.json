@@ -11,6 +11,7 @@
     "github:1403166830",
     "github:1414779682",
     "github:1420436732",
+    "github:1421473933",
     "github:1422159047",
     "https://hackaday.com/?p=1162590",
     "https://hackaday.com/?p=1163157",
@@ -64,6 +65,7 @@
     "https://www.cnx-software.com/?p=178265",
     "https://www.cnx-software.com/?p=178293",
     "https://www.cnx-software.com/?p=178324",
+    "https://www.cnx-software.com/?p=178413",
     "oai:arXiv.org:2501.18799v3",
     "oai:arXiv.org:2505.14902v2",
     "oai:arXiv.org:2506.19526v2",
@@ -281,6 +283,7 @@
     "url:https://github.com/kyledlester/Namco_NB1_MiSTer",
     "url:https://github.com/linuxkid473/gbos-x86",
     "url:https://github.com/radium-wang/Hasselblad-X-System-CIM-Firmware-Research-Feature-Extensions",
+    "url:https://github.com/reacher-z/Awesome-REA",
     "url:https://github.com/soullybaby/Teletext-MiSTer",
     "url:https://hackaday.com/2026/09/24/fpga-for-all-cern-releases-colibri-vhdl-library",
     "url:https://hackaday.com/2026/09/25/hackaday-podcast-episode-388-ram-swapping-on-raspberry-pi-raindrops-on-radar-and-a-fine-mesh",
@@ -333,6 +336,7 @@
     "url:https://www.cnx-software.com/2026/10/15/orange-pi-o1-sbc-features-16-tops-sophgo-bm1688-ai-soc-supports-4g-5g-cellular-connectivity",
     "url:https://www.cnx-software.com/2026/10/16/w1700k-sdr-turns-a-wi-fi-7-router-into-a-320-msps-software-defined-radio-receiver",
     "url:https://www.cnx-software.com/2026/10/16/xerxes-pi-2026-and-xerxes-nano-carrier-boards-offer-nvme-poe-and-oculink-for-raspberry-pi-and-jetson-modules",
-    "url:https://www.cnx-software.com/2026/10/17/seeed-studio-xiao-ips-display-series-features-esp32-s3-or-nrf52840-soc-with-0-96-inch-to-1-47-inch-lcd-options"
+    "url:https://www.cnx-software.com/2026/10/17/seeed-studio-xiao-ips-display-series-features-esp32-s3-or-nrf52840-soc-with-0-96-inch-to-1-47-inch-lcd-options",
+    "url:https://www.cnx-software.com/2026/10/18/m5stack-paperdiy-kits-pair-an-esp32-s3-mcu-with-a-4-7-inch-e-paper-display"
   ]
 }
