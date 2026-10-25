@@ -29,6 +29,7 @@
     "https://hackaday.com/?p=1240257",
     "https://hackaday.com/?p=1240556",
     "https://hackaday.com/?p=1243150",
+    "https://hackaday.com/?p=1354518",
     "https://www.cnx-software.com/?p=167333",
     "https://www.cnx-software.com/?p=175717",
     "https://www.cnx-software.com/?p=176022",
@@ -78,6 +79,7 @@
     "https://www.cnx-software.com/?p=178453",
     "https://www.cnx-software.com/?p=178463",
     "https://www.cnx-software.com/?p=178502",
+    "https://www.cnx-software.com/?p=178628",
     "oai:arXiv.org:2501.18799v3",
     "oai:arXiv.org:2505.14902v2",
     "oai:arXiv.org:2506.19526v2",
@@ -383,6 +385,7 @@
     "url:https://hackaday.com/2026/10/12/wifi-router-does-software-defined-radio",
     "url:https://hackaday.com/2026/10/14/using-an-esp32-c3s-rf-hardware-for-dvb-s2-video-transmission",
     "url:https://hackaday.com/2026/10/16/the-trials-and-tribulations-of-your-first-badge",
+    "url:https://hackaday.com/2026/10/24/making-for-others",
     "url:https://www.cnx-software.com/2026/09/22/nordic-nrf54lc10a-a-tiny-bluetooth-le-and-802-15-4-soc-with-sub-50-na-hibernation-mode",
     "url:https://www.cnx-software.com/2026/09/23/mediatek-dimensity-cx-c10-max-octa-core-cortex-x925-x9-a720-soc-targets-googlebooks",
     "url:https://www.cnx-software.com/2026/09/24/cybopal-one-an-ai-powered-6-dof-robotic-terminal-with-27-inch-4k-display-that-adjusts-to-your-posture",
@@ -431,6 +434,7 @@
     "url:https://www.cnx-software.com/2026/10/22/rotary-encoder-with-1-8-inch-touch-display-gets-upgrade-to-esp32-s31-soc",
     "url:https://www.cnx-software.com/2026/10/23/lilygo-t-halow-p4-a-m-2-2280-board-with-esp32-p4-wifi-halow-and-esp32-c6",
     "url:https://www.cnx-software.com/2026/10/23/roboparty-rp1-roboto-01-a-full-stack-open-source-humanoid-robot-with-up-to-30-degrees-of-freedom",
-    "url:https://www.cnx-software.com/2026/10/24/zotac-zbox-pro-cm5-pico-a-compact-raspberry-pi-cm5-based-fanless-industrial-mini-pc"
+    "url:https://www.cnx-software.com/2026/10/24/zotac-zbox-pro-cm5-pico-a-compact-raspberry-pi-cm5-based-fanless-industrial-mini-pc",
+    "url:https://www.cnx-software.com/2026/10/25/deki-engine-esp32-gets-an-open-source-unity-style-editor-and-c-2d-game-engine"
   ]
 }
