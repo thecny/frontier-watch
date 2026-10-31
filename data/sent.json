@@ -69,10 +69,12 @@
     "https://www.cnx-software.com/?p=178133",
     "https://www.cnx-software.com/?p=178154",
     "https://www.cnx-software.com/?p=178234",
+    "https://www.cnx-software.com/?p=178238",
     "https://www.cnx-software.com/?p=178256",
     "https://www.cnx-software.com/?p=178260",
     "https://www.cnx-software.com/?p=178265",
     "https://www.cnx-software.com/?p=178267",
+    "https://www.cnx-software.com/?p=178269",
     "https://www.cnx-software.com/?p=178279",
     "https://www.cnx-software.com/?p=178293",
     "https://www.cnx-software.com/?p=178324",
@@ -89,6 +91,8 @@
     "https://www.cnx-software.com/?p=178698",
     "https://www.cnx-software.com/?p=178724",
     "https://www.cnx-software.com/?p=178776",
+    "https://www.cnx-software.com/?p=178794",
+    "https://www.cnx-software.com/?p=178848",
     "oai:arXiv.org:2501.18799v3",
     "oai:arXiv.org:2502.08236v4",
     "oai:arXiv.org:2505.14902v2",
@@ -511,6 +515,10 @@
     "url:https://www.cnx-software.com/2026/10/27/synergy-logic-slm-rp4-a-raspberry-pi-4-plc-with-modular-industrial-i-o",
     "url:https://www.cnx-software.com/2026/10/28/lilygo-t-display-k230-risc-v-ai-dev-kit-features-amoled-lora-and-an-optional-keyboard",
     "url:https://www.cnx-software.com/2026/10/28/picotronix-modular-oscilloscope-and-logic-analyzer-features-two-raspberry-pi-pico-2-boards",
-    "url:https://www.cnx-software.com/2026/10/29/beagleconnect-quadesc-4-channel-bldc-motor-controller-ti-am13e23019-based-torque-module"
+    "url:https://www.cnx-software.com/2026/10/29/2600-lattepanda-sigma-2-single-board-server-features-180-tops-intel-core-ultra-x7-358h-soc-for-local-ai-applications",
+    "url:https://www.cnx-software.com/2026/10/29/beagleconnect-quadesc-4-channel-bldc-motor-controller-ti-am13e23019-based-torque-module",
+    "url:https://www.cnx-software.com/2026/10/30/26-banana-pi-bpi-rt2-wifi-6-router-board-features-realtek-rtl8198d-dual-core-mips-soc",
+    "url:https://www.cnx-software.com/2026/10/30/azume-one-a-2-8mm-sensor-that-turns-any-regular-wristwatch-into-a-health-tracker",
+    "url:https://www.cnx-software.com/2026/10/31/arduino-uno-q-gets-a-10-1-inch-touch-display-with-integrated-speakers-audio-jacks-camera-connectors"
   ]
 }
