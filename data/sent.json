@@ -33,6 +33,7 @@
     "https://hackaday.com/?p=1240556",
     "https://hackaday.com/?p=1243150",
     "https://hackaday.com/?p=1354518",
+    "https://hackaday.com/?p=1354630",
     "https://hackaday.com/?p=1396595",
     "https://hackaday.com/?p=1397252",
     "https://www.cnx-software.com/?p=167333",
@@ -93,10 +94,14 @@
     "https://www.cnx-software.com/?p=178671",
     "https://www.cnx-software.com/?p=178698",
     "https://www.cnx-software.com/?p=178724",
+    "https://www.cnx-software.com/?p=178766",
     "https://www.cnx-software.com/?p=178776",
     "https://www.cnx-software.com/?p=178794",
     "https://www.cnx-software.com/?p=178848",
     "https://www.cnx-software.com/?p=178888",
+    "https://www.cnx-software.com/?p=178899",
+    "https://www.cnx-software.com/?p=179008",
+    "https://www.cnx-software.com/?p=179120",
     "oai:arXiv.org:2501.18799v3",
     "oai:arXiv.org:2502.08236v4",
     "oai:arXiv.org:2505.14902v2",
@@ -478,6 +483,7 @@
     "url:https://hackaday.com/2026/10/24/making-for-others",
     "url:https://hackaday.com/2026/10/28/2026-retrocomputing-challenge-custom-risc-v-processor-for-retro-system",
     "url:https://hackaday.com/2026/11/01/cheap-fpga-board-becomes-retro-style-computer",
+    "url:https://hackaday.com/2026/11/02/ask-hackaday-what-puts-this-photo-in-the-pink",
     "url:https://www.cnx-software.com/2026/09/22/nordic-nrf54lc10a-a-tiny-bluetooth-le-and-802-15-4-soc-with-sub-50-na-hibernation-mode",
     "url:https://www.cnx-software.com/2026/09/23/mediatek-dimensity-cx-c10-max-octa-core-cortex-x925-x9-a720-soc-targets-googlebooks",
     "url:https://www.cnx-software.com/2026/09/24/cybopal-one-an-ai-powered-6-dof-robotic-terminal-with-27-inch-4k-display-that-adjusts-to-your-posture",
@@ -539,6 +545,10 @@
     "url:https://www.cnx-software.com/2026/10/30/26-banana-pi-bpi-rt2-wifi-6-router-board-features-realtek-rtl8198d-dual-core-mips-soc",
     "url:https://www.cnx-software.com/2026/10/30/azume-one-a-2-8mm-sensor-that-turns-any-regular-wristwatch-into-a-health-tracker",
     "url:https://www.cnx-software.com/2026/10/31/arduino-uno-q-gets-a-10-1-inch-touch-display-with-integrated-speakers-audio-jacks-camera-connectors",
-    "url:https://www.cnx-software.com/2026/11/01/biostar-edgecomp-ms-u320-fanless-wildcat-lake-industrial-mini-pc-offers-four-com-ports-dual-2-5gbe-4g-5g-expansion"
+    "url:https://www.cnx-software.com/2026/11/01/biostar-edgecomp-ms-u320-fanless-wildcat-lake-industrial-mini-pc-offers-four-com-ports-dual-2-5gbe-4g-5g-expansion",
+    "url:https://www.cnx-software.com/2026/11/02/banana-pi-bpi-m8-an-allwinner-a733-sbc-inspired-by-the-raspberry-pi-5-with-pcie-ffc-connector-ufs-module-socket",
+    "url:https://www.cnx-software.com/2026/11/02/brainchip-akd1500-raspberry-pi-5-dev-kit-enables-users-to-quickly-experiment-with-event-based-neuromorphic-ai",
+    "url:https://www.cnx-software.com/2026/11/02/toocaa-nova-review-20w-laser-engraver-with-ai-camera-autofocus-rotary-module",
+    "url:https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385"
   ]
 }
